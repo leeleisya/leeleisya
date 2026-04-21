@@ -1,5 +1,7 @@
+<img align="center" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/rainy/api?height=200&width=2000&density=20&bannerText=Welcome" />
+
 <p align="center">
-  💻 Programmer | 🤖 Engineer | 🎓 Student
+  💻 Programmer | 🤖 Engineer | 🎓 Student 
 </p>
 
 Hi there 👋
@@ -7,6 +9,7 @@ Hi there 👋
 My name is Yelyzaveta Larkina but I prefer to go by my short name Liza. 
 
 I speak Ukrainian, Russian, English and I have studied Finnish as my main foreign language since 2013. I also try to learn Swedish.
+
 
 ---
 
@@ -98,12 +101,4 @@ I speak Ukrainian, Russian, English and I have studied Finnish as my main foreig
 
 ---
 
-### 📊 GitHub stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=leeleisya&show_icons=true)
-
----
-
-### 🔥 Streak
-
-![streak](https://streak-stats.demolab.com?user=leeleisya)
