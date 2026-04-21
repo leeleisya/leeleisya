@@ -2,10 +2,6 @@
   💻 Programmer | 🤖 Engineer | 🎓 Student
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=leeleisya&label=Profile%20views&color=000000&style=flat" />
-</p>
-
 Hi there 👋
 
 My name is Yelyzaveta Larkina but I prefer to go by my short name Liza. 
