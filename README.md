@@ -107,10 +107,3 @@ I speak Ukrainian, Russian, English and I have studied Finnish as my main foreig
 ### 🔥 Streak
 
 ![streak](https://streak-stats.demolab.com?user=leeleisya)
-
----
-
-### 📫 Contact
-
-- ✉️ Email: lilia260503@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/yelyzaveta-larkina/
