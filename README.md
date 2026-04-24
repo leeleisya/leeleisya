@@ -8,17 +8,6 @@ Hi there 👋
 
 My name is Yelyzaveta Larkina but I prefer to go by my short name Liza. 
 
-I speak Ukrainian, Russian, English and I have studied Finnish as my main foreign language since 2013. I also try to learn Swedish.
-
-
----
-
-### 🔬 My tech study background:
-
-- **Theoretical and Computational Methods** MSc degree in University of Helsinki in Helsinki, Finland, *2025-ongoing.*
-- **Data Science** non-degree studies in Aalto University in Espoo, Finland, *2022-2025.*
-- **Computer Science** BSc degree in European University in Kyiv, Ukraine, *2020-2024.*
-
 ---
 
 ### 🚀 My projects
